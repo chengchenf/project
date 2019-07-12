@@ -1,0 +1,124 @@
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func()
+TypeError: test_denglu() takes exactly 1 argument (0 given)
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func()
+TypeError: test_denglu() takes exactly 1 argument (0 given)
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func()
+TypeError: test_gouwutian() takes exactly 1 argument (0 given)
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func()
+TypeError: test_gouwutian() takes exactly 1 argument (0 given)
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func()
+TypeError: test_gouwushan() takes exactly 1 argument (0 given)
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func()
+TypeError: test_gouwushan() takes exactly 1 argument (0 given)
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 26, in test_gouwushan
+    wait(By.XPATH, '//*[@id="remove_10111726_42748065785_1"]')
+  File "D:\pycharm\project\lianxi\jingdong\jd_0_dl.py", line 47, in wait
+    wait.until(EC.presence_of_element_located(locator), '超时超时')
+  File "D:\python\lib\site-packages\selenium-2.53.6-py2.7.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 超时超时
+
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 17, in test_gouwushan
+    wait(By.XPATH, '//*[@id="settleup-2014"]/div[1]/a')
+  File "D:\pycharm\project\lianxi\jingdong\jd_0_dl.py", line 47, in wait
+    wait.until(EC.presence_of_element_located(locator), '超时超时')
+  File "D:\python\lib\site-packages\selenium-2.53.6-py2.7.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 超时超时
+
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 14, in test_gouwushan
+    dr=jd_0_dl.dr
+AttributeError: 'module' object has no attribute 'dr'
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 14, in test_gouwushan
+    dr=jd_0_dl.dr
+AttributeError: 'module' object has no attribute 'dr'
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 26, in test_gouwushan
+    wait(By.XPATH, '//*[@id="remove_10111726_42748065785_1"]')
+  File "D:\pycharm\project\lianxi\jingdong\jd_0_dl.py", line 47, in wait
+    wait.until(EC.presence_of_element_located(locator), '超时超时')
+  File "D:\python\lib\site-packages\selenium-2.53.6-py2.7.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 超时超时
+
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 10, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 17, in test_gouwushan
+    wait(By.XPATH, '//*[@id="settleup-2014"]/div[1]/a')
+  File "D:\pycharm\project\lianxi\jingdong\jd_0_dl.py", line 47, in wait
+    wait.until(EC.presence_of_element_located(locator), '超时超时')
+  File "D:\python\lib\site-packages\selenium-2.53.6-py2.7.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 超时超时
+
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 13, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 26, in test_gouwushan
+    wait(By.XPATH, '//*[@id="remove_10111726_42748065785_1"]')
+  File "D:\pycharm\project\lianxi\jingdong\jd_0_dl.py", line 47, in wait
+    wait.until(EC.presence_of_element_located(locator), '超时超时')
+  File "D:\python\lib\site-packages\selenium-2.53.6-py2.7.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 超时超时
+
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 13, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 17, in test_gouwushan
+    wait(By.XPATH, '//*[@id="settleup-2014"]/div[1]/a')
+  File "D:\pycharm\project\lianxi\jingdong\jd_0_dl.py", line 47, in wait
+    wait.until(EC.presence_of_element_located(locator), '超时超时')
+  File "D:\python\lib\site-packages\selenium-2.53.6-py2.7.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 超时超时
+
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 13, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 26, in test_gouwushan
+    wait(By.XPATH, '//*[@id="remove_10111726_42748065785_1"]')
+  File "D:\pycharm\project\lianxi\jingdong\jd_0_dl.py", line 47, in wait
+    wait.until(EC.presence_of_element_located(locator), '超时超时')
+  File "D:\python\lib\site-packages\selenium-2.53.6-py2.7.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 超时超时
+
+Traceback (most recent call last):
+  File "D:\pycharm\project\lianxi\jingdong\zhuangshiqi.py", line 13, in warp
+    func(*a,**b)
+  File "D:\pycharm\project\lianxi\jingdong\jd_3_shanchugouwuche.py", line 17, in test_gouwushan
+    wait(By.XPATH, '//*[@id="settleup-2014"]/div[1]/a')
+  File "D:\pycharm\project\lianxi\jingdong\jd_0_dl.py", line 47, in wait
+    wait.until(EC.presence_of_element_located(locator), '超时超时')
+  File "D:\python\lib\site-packages\selenium-2.53.6-py2.7.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 超时超时
+
